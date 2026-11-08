@@ -27,7 +27,7 @@ from sklearn.tree import DecisionTreeClassifier
 SEED = 4112  # last 4 digits of roll number 2025NS04112
 TARGET = "diagnosis"  # 1 = malignant (positive class), 0 = benign
 ROOT = Path(__file__).resolve().parent.parent
-MODEL_DIR = ROOT / "model"
+MODEL_DIR = ROOT
 
 
 def load_data():
