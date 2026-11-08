@@ -27,9 +27,8 @@ sklearn's original encoding (0 = malignant) was flipped so that **malignant is t
 
 ## c. GitHub repository link
 
-`<paste your GitHub repo URL here>`
+`https://github.com/2025ns04112-cloud/ml-assignment-2-2025ns04112.git`
 
-**Live Streamlit app:** `<paste your Streamlit Cloud URL here>`
 
 ```
 ml-assignment-2/
