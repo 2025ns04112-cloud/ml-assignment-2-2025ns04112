@@ -16,7 +16,7 @@ from sklearn.metrics import (accuracy_score, classification_report,
                              roc_curve)
 
 ROOT = Path(__file__).resolve().parent
-MODEL_DIR = ROOT / "model"
+MODEL_DIR = ROOT
 sys.path.insert(0, str(MODEL_DIR))
 import train_models as tm  # noqa: E402
 
